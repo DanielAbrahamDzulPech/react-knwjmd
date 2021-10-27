@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.Footer__div {
+  background-color: blueviolet;
+  width: 100vw;
+  height: 13rem;
+}
+
+div ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div ul li {
+  list-style: none;
+}
